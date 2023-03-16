@@ -1,0 +1,177 @@
+<mxfile host="65bd71144e">
+    <diagram id="k8i_2xDjWY05S3S8H_-K" name="Page-1">
+        <mxGraphModel dx="2741" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="incio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="20" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(195, 232, 141);&quot;&gt;tijerasComputadora = randon (1,3)&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="360" width="220" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;1 = piedra&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;2 = papel&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;3 = tijeras&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="212.5" y="230" width="170" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(195, 232, 141);&quot;&gt;ppt = 1 a 3&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="130" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="12" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="560" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="55" y="545"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == computadora&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="202.5" y="490" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;empate: los dos sacaron lo mismo&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="600" width="170" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="17" target="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="298" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="17" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-160" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt; and computadora == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;2&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-20" y="600" width="150" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;la computadora saco papel. GANO LA COMPUTADORA&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="760" width="175" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="27" target="30">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="108" y="860"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="32">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-385" y="860"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt; and computadora == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;1&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-235" y="780" width="150" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;la computadora saco piedra. GANASTE&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="950" width="205" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-160" y="1020"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="32" target="36">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-565" y="1020"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt; and computadora == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-460" y="940" width="150" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;la computadora saco tijeras. GANO LA COMPUTADORA&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-257.5" y="1100" width="195" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="36" target="38">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-420" y="1180"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="36" target="40">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-805" y="1180"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt; and computadora == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;2&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-640" y="1100" width="150" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;la computadora saco papel. GANASTE&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-510" y="1270" width="180" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="40" target="42">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-640" y="1340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40" target="44">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-1040" y="1340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt; and computadora == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-880" y="1260" width="150" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;la computadora saco tijeras. GANASTE&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-775" y="1430" width="265" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="44" target="46">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-890" y="1460"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="44" target="48">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-1270" y="1460"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;ppt == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt; and computadora == &lt;/span&gt;&lt;span style=&quot;color: #fc626a;&quot;&gt;1&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-1120" y="1380" width="150" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;la computadora saco piedra. GANO LA COMPUTADORA&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-1000" y="1570" width="215" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;div style=&quot;color: rgb(255, 255, 255); background-color: rgb(13, 13, 29); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #f78c6c;&quot;&gt;rta = &lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #c3e88d;&quot;&gt;ingrese un valor de 1 a 3&lt;/span&gt;&lt;span style=&quot;color: #89ddff;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-1340" y="1530" width="140" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
